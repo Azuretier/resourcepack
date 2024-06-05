@@ -1,1 +1,1 @@
-resourcepack=https://Azuretier/resourcepack/download/releases/**/resources.zip
+resourcepack=https://Azuretier/resourcepack/download/releases/**/_.zip
