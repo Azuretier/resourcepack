@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/apple"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "minecraft:item/apple_"},
+    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/apple__"},
+    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/apple___"},
+    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/apple____"},
+    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/apple_____"}
+  ]
+}
