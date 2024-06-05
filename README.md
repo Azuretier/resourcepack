@@ -1,0 +1,1 @@
+Azuret.netのserver.propertiesのresourcepackに使うレポジトリ
