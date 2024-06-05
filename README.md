@@ -1,1 +1,1 @@
-Azuret.netのserver.propertiesのresourcepackに使うレポジトリ
+resourcepack=https://Azuretier/resourcepack/download/releases/**/resources.zip
