@@ -1,0 +1,12 @@
+{
+    "custom.lose":{
+        "category": "master",
+        "sounds": ["lose"],
+        "subtitle": "subtitle.custom.lose"
+    },
+    "custom.win":{
+        "category": "master",
+        "sounds": ["win"],
+        "subtitle": "subtitle.custom.win"
+    }
+}

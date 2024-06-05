@@ -1,0 +1,48 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:custom.ttf",
+            "shift": [0.0, 16.0],
+            "size": 8.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon.png",
+            "ascent": -21,
+            "height": 9,
+            "chars": [
+                "\uE010\uE011\uE012\uE013",
+                "\uE014\uE015\uE016\uE017",
+                "\uE018\uE019\uE01A\uE01B",
+                "\uE01C\uE01D\uE01E\uE01F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/amethyst.png",
+            "ascent": -15,
+            "height": 9,
+            "chars": [
+                "\uE02A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/diamond.png",
+            "ascent": -21,
+            "height": 9,
+            "chars": [
+                "\uE02B"
+            ]
+        }
+    ]
+}

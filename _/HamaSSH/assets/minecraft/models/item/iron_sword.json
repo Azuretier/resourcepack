@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "minecraft:item/wooden_dagger"},
+    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/wooden_sword"},
+    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/wooden_spear"},
+    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/wooden_hammer"},
+    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/wooden_wand"},
+    {"predicate": {"custom_model_data":6}, "model": "minecraft:item/wooden_bow"},
+    {"predicate": {"custom_model_data":11}, "model": "minecraft:item/bone_dagger"},
+    {"predicate": {"custom_model_data":12}, "model": "minecraft:item/bone_sword"},
+    {"predicate": {"custom_model_data":13}, "model": "minecraft:item/bone_spear"},
+    {"predicate": {"custom_model_data":14}, "model": "minecraft:item/bone_hammer"},
+    {"predicate": {"custom_model_data":15}, "model": "minecraft:item/bone_wand"},
+    {"predicate": {"custom_model_data":16}, "model": "minecraft:item/bone_bow"},
+    {"predicate": {"custom_model_data":21}, "model": "minecraft:item/crystal_dagger"},
+    {"predicate": {"custom_model_data":22}, "model": "minecraft:item/crystal_sword"},
+    {"predicate": {"custom_model_data":23}, "model": "minecraft:item/crystal_spear"},
+    {"predicate": {"custom_model_data":24}, "model": "minecraft:item/crystal_hammer"},
+    {"predicate": {"custom_model_data":25}, "model": "minecraft:item/crystal_wand"},
+    {"predicate": {"custom_model_data":26}, "model": "minecraft:item/crystal_bow"}
+  ]
+}
